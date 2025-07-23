@@ -1,10 +1,10 @@
-# Focused Ultrasound Heating Simulation in COMSOL
+# COMSOL-Simulation
 
 This project simulates focused ultrasound-induced heating in a tissue phantom using COMSOL Multiphysics. The model investigates how ultrasound waves can generate localized heating in biological tissue and analyzes the influence of mesh resolution and coupling medium (water vs. air) on simulation outcomes.
 
 ## Report
 The simulation setup and results are fully documented in the PDF report.  
-**`Focused_Ultrasound_Heating_Report.pdf`**  
+**`Ultrasound Heating Simulation - report.pdf`**  
 Contains:
 - Model setup and geometry
 - Acoustic field and temperature rise simulations
